@@ -11,7 +11,7 @@ MongoDB
 Express
 
 # Worked with --
-1)JSON Web Tokens (JWT's) for tracking user sessions with the app.
-2)Hashing features for securely storing and comparing passwords.
-3)Mongoose library for using MongoDB.
+1) JSON Web Tokens (JWT's) for tracking user sessions with the app.
+2) Hashing features for securely storing and comparing passwords.
+3) Mongoose library for using MongoDB.
 
